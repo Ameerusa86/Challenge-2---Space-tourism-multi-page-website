@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/saptaparneechaudhuri/space-frontend-mentor]
+- Solution URL: [https://github.com/Ameerusa86/Challenge-2---Space-tourism-multi-page-website/tree/master/space-frontend-mentor]
 - Live Site URL: [https://imaginative-unicorn-7299b2.netlify.app/]
 
 ## My process
